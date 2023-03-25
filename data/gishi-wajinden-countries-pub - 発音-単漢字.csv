@@ -73,7 +73,7 @@
 ,Definition,,中古音(隋唐),模,nuo,,,,,
 不,使用箇所,"7,16",上古音(先秦BS),,pə,,,,,
 ,小學堂字號,21497,上古音(先秦Z),物1,pɯ',,,,,pɯ’ ＞pɯd (先秦Z2013)
-,Pinyin,bù,上古音(後漢),#,#,p(ɨə)t,"pu`{ə}, pə`, pə`{t`}","pu`{o2}, po2`, po2`{t`}",M:R:8692と声調を除いて同じと仮定。C:入声より-tを推定。,([Schuessler2007]弗 LHC putが後に「不」に反映されたとしてこの発音は未掲載。[Takashima1996]弗 ->不の置き換えは前漢・昭帝の名を避けるためなのでLHCに存在したはず。https://en.wiktionary.org/wiki/%E4%B8%8D )(物LHC mut 韻部「質」LHC tśit 押韻せず。「邑」参照。)
+,Pinyin,bù,上古音(後漢),#,#,p(ɨə)t,"pu`{ə}, pə`, pə`{t`}","pu`{o2}, po2`, po2`{t`}",M:R:8692と声調を除いて同じと仮定。C:入声より-tを推定。,([Schuessler2007]弗 LHC putが後に「不」に反映されたとしてこの発音は未掲載。[Wiktionary] 弗 ->不の置き換えは前漢・昭帝の名を避けるためとするがソース不明。[Takashima1996]ではなかった。 hhttps://en.wiktionary.org/wiki/%E4%B8%8D 三国志、漢書では弗はほとんど出ないので既に不だろう。)(物LHC mut 韻部「質」LHC tśit 押韻せず。「邑」参照。)
 ,声調(廣韻),入声,中古音(魏晋),#,#,(pjət),"piə`, piə`{t`}, pi`{ə}, pə`, pə`{t`}","pe1`, pe1`{t`}, pi1`{o2}, po2`, po2`{t`}",M:3等より-j-推定。R:「物」魏晋#jət、先秦・隋唐一致より(8692と同じとすると-outという存在しない韻になってしまう)。,
 ,等(廣韻),3,中古音(ONW),,#,,,,,
 ,Definition,not,中古音(隋唐),物,pɨut̚,,,,,
@@ -139,13 +139,13 @@
 ,Definition,,中古音(隋唐),陌,pˠæk̚,,,,,
 好,使用箇所,15,上古音(先秦BS),,qʰˤuʔ,,,,,
 ,小學堂字號,12966,上古音(先秦Z),幽1,qʰuːʔ,,,,,qʰuuʔ (先秦Z2013)
-,Pinyin,hǎo,上古音(後漢),幽,hou,"(qʰɑ)u, (qʰ)ou","kau, ka, ka{u}, ku","ko1, ka, ka{u}, ku",I:先秦の音を仮定(本論文参照)。R:[Schuessler2007] 12.1.1. universal vowel raising (div. I)を2段階としてɑuの可能性あり、また押韻傾向より推定(その他コメント参照)。,(? 幽 LHC ʔiu との押韻は厳密でない。老 LH lou 保LH pouB 道LH douB 舅 LH guC 「宵」部 槁 LH khauB(易林) 妙 LH miauC  「魚」部 女與宇哺(易林) http://suzukish.s252.xrea.com/search/xianqin/index.php?yunzi=%E5%A5%BD) 
+,Pinyin,hǎo,上古音(後漢),幽,hou,"(qʰɑ)u, (qʰ)ou","kau, ka, ka{u}, ku","ko1, ka, ka{u}, ku",I:先秦の音を仮定(本論文参照)。R:[Schuessler2007] 12.1.1. universal vowel raising (div. I)を2段階としてɑuの可能性あり、また押韻傾向より推定(その他コメント参照)。,(? 幽部-宵部-魚部の合韻傾向あり。幽 LHC ʔiu との押韻は厳密でない。老 LH lou 保LH pouB 道LH douB 舅 LH guC 「宵」部 槁 LH khauB(易林) 妙 LH miauC  「魚」部 女與宇哺(易林) http://suzukish.s252.xrea.com/search/xianqin/index.php?yunzi=%E5%A5%BD) 
 ,声調(廣韻),上声,中古音(魏晋),豪,#au,(qʰ)au,"kau, ka, ka{u}, ku","ko1, ka, ka{u}, ku",I:先秦の音を仮定(本論文参照)、Coblin1977後漢[h]>魏晋[h]>隋唐[x]より後漢と同じとする。,
 ,等(廣韻),1,中古音(ONW),,hɑu,,,,,
 ,Definition,good,中古音(隋唐),晧,hɑu,,,,,
 好,使用箇所,(see above),上古音(先秦BS),,qʰˤuʔ-s,,,,,
 ,小學堂字號,18677,上古音(先秦Z),幽1,qʰuːs,,,,,qʰuus (先秦Z2013)
-,Pinyin,hào,上古音(後漢),幽,hou,"(qʰ)ou(h), (qʰ)ɑu(h)",(声調以外12966と同じ),,I:(声調以外12966と同じ)。C:去声より-hを推定(不19520参照),
+,Pinyin,hào,上古音(後漢),幽,hou,"(qʰɑ)u(h), (qʰ)ou(h)",(声調以外12966と同じ),,I:(声調以外12966と同じ)。C:去声より-hを推定(不19520参照),
 ,声調(廣韻),去声,中古音(魏晋),豪,#au,(qʰ)au(h),(声調以外12966と同じ),,I:(声調以外12966と同じ)。C:去声より-hを推定(不19520参照),
 ,等(廣韻),1,中古音(ONW),,#,,,,,
 ,Definition,to like,中古音(隋唐),號,hɑu,,,,,
