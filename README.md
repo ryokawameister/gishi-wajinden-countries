@@ -10,12 +10,12 @@
 CSVファイルの文字コードはUTF-8です。
 ## data/
 - [gishi-wajinden-countries-pub.xlsx](data/gishi-wajinden-countries-pub.xlsx)
-  - (修正中のため一時的に削除) 全てのCSVファイルをまとめたものです。フォーマットの詳細は上記Excelファイルの「記号」タブをご覧ください。
+  - (「単漢字」修正中のため一時的に削除) 全てのCSVファイルをまとめたものです。フォーマットの詳細は上記Excelファイルの「記号」タブをご覧ください。
   - 元はGoogle Spreadsheetで編集し、Excel形式に変換しました。
 - [gishi-wajinden-countries-pub - 発音-国名.csv](data/gishi-wajinden-countries-pub%20-%20%E7%99%BA%E9%9F%B3-%E5%9B%BD%E5%90%8D.csv)
   - 国ごとの漢字の発音データ。他にも発音パターンはあり得ますが、候補として検討した物のみ記載。
 - [gishi-wajinden-countries-pub - 発音-単漢字.csv](data/gishi-wajinden-countries-pub%20-%20%E7%99%BA%E9%9F%B3-%E5%8D%98%E6%BC%A2%E5%AD%97.csv)
-  - (修正中のため一時的に削除) 個別の漢字の発音データ。後漢および魏晋期の発音を辞書を基に補完・修正して記載しています。最初の4行はヘッダーです。1つの漢字は4行分使用します。フォーマットの詳細は上記Excelファイルの「記号」タブをご覧ください。
+  - (「単漢字」修正中のため一時的に削除) 個別の漢字の発音データ。後漢および魏晋期の発音を辞書を基に補完・修正して記載しています。最初の4行はヘッダーです。1つの漢字は4行分使用します。フォーマットの詳細は上記Excelファイルの「記号」タブをご覧ください。
 - [gishi-wajinden-countries-pub - 候補検討.csv](data/gishi-wajinden-countries-pub%20-%20%E5%80%99%E8%A3%9C%E6%A4%9C%E8%A8%8E.csv)
   - 第1候補(比定地)のリスト。地図上でマーカーをプロットするのに使用しています。上の方に固めてあります。
   - 第2候補以下も含めた候補地名のスコアリング。下の方に固めてあります。
